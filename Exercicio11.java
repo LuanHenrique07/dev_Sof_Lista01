@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class Exercicio11 {
-
     public static void executar(){
 
         int numeros[] = new int[3];
@@ -11,7 +10,6 @@ public class Exercicio11 {
         }
 
         Arrays.sort(numeros);
-
 
         Prompt.imprimir("Os números em ordem crescente são:");
         for (int numero : numeros) {
