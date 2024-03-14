@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 public class Exercicio11 {
     public static void executar(){
-
         int numeros[] = new int[3];
 
         for (int i = 0; i < 3; i++) {
@@ -15,6 +14,5 @@ public class Exercicio11 {
         for (int numero : numeros) {
             Prompt.imprimir(numero + " ");
         }
-    
     }
 }

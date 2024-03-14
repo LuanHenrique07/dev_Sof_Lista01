@@ -1,7 +1,6 @@
 public class Exercicio13 {
 
     public static void executar(){
-
         double num1 = Prompt.lerDecimal("Informe o primeiro numero: ");
         double num2 = Prompt.lerDecimal("Informe o segundo numero: ");
         String carac = Prompt.lerLinha("Informe o operador: ");

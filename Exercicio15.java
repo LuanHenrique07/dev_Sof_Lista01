@@ -1,5 +1,4 @@
 public class Exercicio15 {
-
     public static void executar(){
         double x1 = Prompt.lerDecimal("Informe o ponto x1: ");
         double y1 = Prompt.lerInteiro("Informe o ponto y1: ");

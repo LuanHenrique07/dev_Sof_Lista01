@@ -1,6 +1,5 @@
 public class Exercicio03 {
     public static void executar(){
-
         int A = Prompt.lerInteiro("Digite o primeiro número: ");
         int B = Prompt.lerInteiro("Digite o segundo número: ");
 

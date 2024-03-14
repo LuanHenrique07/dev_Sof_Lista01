@@ -1,5 +1,4 @@
 public class Exercicio10 {
-
     public static void executar(){
        int A =  Prompt.lerInteiro("Escreva um numero de 1 a 5: ");
 
